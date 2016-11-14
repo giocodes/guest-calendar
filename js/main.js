@@ -1,7 +1,7 @@
 angular.module('gcAPP', [])
     .controller('MainCtrl', function($scope, $http) {
         // 📝Fetching the data from the JSON
-        $http.get('http://sigr.online/guests.json')
+        $http.get('https://giocodes.github.io/guest-calendar/guests.json')
             .then(function(res) {
                 $scope.allGuests = res.data;
                 $scope.filteredGuests = res.data;
