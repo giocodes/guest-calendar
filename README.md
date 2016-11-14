@@ -1,5 +1,8 @@
 #Guest Calendar
 
+## Live Demo
+[https://giocodes.github.io/guest-calendar/](https://giocodes.github.io/guest-calendar/)
+
 ## Features
 * Fetch data of guest profile, stays, and rates from JSON file
 * Day, week or month view through filters
@@ -30,8 +33,6 @@ LESS
 4. Theme and styling using LESS to leverage variables and DRY the stylesheet.
 5. QA and Deployment.
 
-## Live Demo
-[https://giocodes.github.io/user-directory/](https://giocodes.github.io/guest-calendar/)
 
 ## Screenshots
 ###Main
