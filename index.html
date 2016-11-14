@@ -28,9 +28,12 @@
     <div class="col-sm-8 row">
       <h1>Guest Calendar</h1>
     </div>
+
     <div class="col-sm-4 nav-right">
       <input type="text" placeholder="Search" data-ng-model="guestSearch">
-      <a href="" data-ng-click="showAddGuest = true ; showProfile = false">Add Guest</a>
+      <div class="tap-fix" data-ng-click="showAddGuest = true ; showProfile = false">
+        <a href="#">Add Guest</a>
+      </div>
     </div>
   </nav>
   <!-- ================= -->
