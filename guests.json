@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Bob Johnson",
+    "rate": 130,
+    "property": "Sunshine Apartments",
+    "move-in": "2016-11-10",
+    "move-out": "2016-11-12",
+    "status": "new",
+    "source": "AirBnB"
+  },
+  {
+    "id": 2,
+    "name": "Linda Combs",
+    "rate": 118,
+    "property": "Sunshine Apartments",
+    "move-in": "2016-11-11",
+    "move-out": "2016-11-18",
+    "status": "confirmed",
+    "source": "AirBnB"
+  },
+  {
+    "id": 3,
+    "name": "Betty Crocker",
+    "rate": 152,
+    "property": "Sunset Villa",
+    "move-in": "2016-11-13",
+    "move-out": "2016-11-14",
+    "status": "confirmed",
+    "source": "AirBnB"
+  },
+  {
+    "id": 4,
+    "name": "Fred Flintstone",
+    "rate": 138,
+    "property": "Sunset Villa",
+    "move-in": "2016-11-21",
+    "move-out": "2016-11-28",
+    "status": "new",
+    "source": "AirBnB"
+  },
+  {
+    "id": 5,
+    "name": "Alexander Hamilton",
+    "rate": 107,
+    "property": "Sunshine Apartments",
+    "move-in": "2016-11-22",
+    "move-out": "2016-11-29",
+    "status": "confirmed",
+    "source": "HomeAway"
+  },
+  {
+    "id": 6,
+    "name": "Vladimir Jones",
+    "rate": 118,
+    "property": "Sunset Villa",
+    "move-in": "2016-11-03",
+    "move-out": "2016-11-06",
+    "status": "cancelled",
+    "source": "AirBnB"
+  },
+  {
+    "id": 7,
+    "name": "Susan Anthony",
+    "rate": 141,
+    "property": "Sunset Villa",
+    "move-in": "2016-11-26",
+    "move-out": "2016-11-28",
+    "status": "confirmed",
+    "source": "HomeAway"
+  },
+  {
+    "id": 8,
+    "name": "Jane Austin",
+    "rate": 134,
+    "property": "Sunshine Apartments",
+    "move-in": "2016-11-05",
+    "move-out": "2016-11-07",
+    "status": "confirmed",
+    "source": "AirBnB"
+  },
+  {
+    "id": 9,
+    "name": "Michael Xiu",
+    "rate": 114,
+    "property": "Sunset Villa",
+    "move-in": "2016-11-24",
+    "move-out": "2016-12-05",
+    "status": "new",
+    "source": "AirBnB"
+  },
+  {
+    "id": 10,
+    "name": "Jennifer Jones",
+    "rate": 127,
+    "property": "Sunset Villa",
+    "move-in": "2016-11-27",
+    "move-out": "2016-11-29",
+    "status": "confirmed",
+    "source": "HomeAway"
+  }
+]

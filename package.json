@@ -1,0 +1,20 @@
+{
+  "name": "guest-calendar",
+  "version": "1.0.0",
+  "description": "## Features * Contact cards from JSON file * Profile photo placeholders * Click or tap to toggle contact details * Link to user's website on new tab * Omnisearch box * Responsive layout and fixed navbar for desktop only * W3C valid HTML5 and CSS3",
+  "main": "js/main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "css-loader": "^0.25.0",
+    "less": "^2.7.1",
+    "less-loader": "^2.2.3",
+    "raw-loader": "^0.5.1",
+    "style-loader": "^0.13.1",
+    "webpack-dev-server": "^1.16.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergio Gomez",
+  "license": "ISC"
+}
